@@ -80,7 +80,7 @@ console.log("Name is:", shape['name'])
 console.log("Number of sides are:", shape['sides'])
 ```
 
-## Iterating over Object Properties 
+## Iterating over Object Properties
 
 using `for...in` syntax
 
